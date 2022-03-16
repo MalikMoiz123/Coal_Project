@@ -1,0 +1,1 @@
+We used MASM assembler in this project and sole purpose of this was to get access to Irvine library which generates random numbers after they are crused in the game
